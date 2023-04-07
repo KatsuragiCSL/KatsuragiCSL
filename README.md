@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him, or **佢** in Cantonese as a neutral pronouns (we don't have different pronouns for different genders in Cantonese :slightly_smiling_face:)
 - ⚡ Fun fact: suck at being punctual in gerneral
 
-Top-Langs
 
 ![KatsuragiCSL's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatsuragiCSL&count_private=true&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=KatsuragiCSL&count_private=true&show_icons=true&exclude_repo=katsuragicsl.github.io)]((https://github.com/anuraghazra/github-readme-stats))
 
 Have some lame jokes below.
